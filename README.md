@@ -18,6 +18,6 @@ To get this client running follow the steps:
 ```bash
 git clone https://github.com/a5hx/discord-webhook-client
 ```
-or you can download the code and run 
+or you can download the code as a zip
 
 - run start.bat
