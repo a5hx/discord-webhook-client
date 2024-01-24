@@ -13,11 +13,11 @@ To get this client running follow the steps:
 
 
 ## Installation
-- Clone this repository
+- clone this repository
 
 ```bash
 git clone https://github.com/a5hx/discord-webhook-client
 ```
 or you can download the code and run 
 
-- Run start.bat
+- run start.bat
